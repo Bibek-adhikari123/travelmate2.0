@@ -1,0 +1,8 @@
+# All files need approval from @team-lead
+* @team-lead
+
+# Backend files need approval from @backend-team
+backend/ @backend-team
+
+# Frontend files need approval from @frontend-team
+frontend/ @frontend-team
